@@ -117,3 +117,7 @@ GitHub: [nnnaaiiddaa2-ux](https://github.com/nnnaaiiddaa2-ux)
 ---
 
 Built as a Python development portfolio project.
+
+## Application Screenshot
+
+![Nexora Verify dashboard](screenshots/nexora_verify.png)
